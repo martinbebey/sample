@@ -5,3 +5,4 @@ ignore me
 removed from staging
 Edit 5 added
 edit 6
+sample repo edit
