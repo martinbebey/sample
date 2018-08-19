@@ -3,5 +3,5 @@ Edit 2
 sample
 ignore me
 removed from staging
-
+Edit 5 added
 edit 6
